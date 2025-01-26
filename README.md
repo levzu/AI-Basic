@@ -36,6 +36,8 @@ pip install -r requirements.txt
 python install_gpt2xl.py
 ```
 
+---
+
 ## **Usage**
 
 ### **Start the Flask server:**
