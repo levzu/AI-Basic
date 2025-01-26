@@ -61,6 +61,6 @@ This project is licensed under the MIT License.
 ### **Contributing**
 1. Fork the repository.
 2. Create a new branch for your feature or fix:
-   ```bash
-   git checkout -b my-feature-branch
-   ```
+```bash
+git checkout -b my-feature-branch
+```
