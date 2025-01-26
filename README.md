@@ -31,6 +31,11 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
+### **Install GPT-2 model:**
+```bash
+python install_gpt2xl.py
+```
+
 ## **Usage**
 
 ### **Start the Flask server:**
