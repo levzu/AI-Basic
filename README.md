@@ -15,15 +15,15 @@ This project implements a chatbot powered by a fine-tuned GPT-2 model. The chatb
 
 ### **Clone the repository:**
 ```bash
-git clone <repository-url>
-cd project
+git clone https://github.com/levzu/AI-Basic
+cd AI-Basic
 ```
 
 ### **Create a virtual environment:**
 ```bash
-python -m venv venv
-source venv/bin/activate   # Linux/MacOS
-venv\Scripts\activate      # Windows
+python -m venv ai
+source ai/bin/activate   # Linux/MacOS
+ai\Scripts\activate      # Windows
 ```
 
 ### **Install dependencies:**
